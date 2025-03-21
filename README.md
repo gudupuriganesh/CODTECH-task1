@@ -1,1 +1,8 @@
 # CODTECH-task1
+Name:GUDUPURI GANESH
+Company:CODTECH IT SOLUTIONS
+ID:CT6WTDS591
+Domain:Python Programming
+Duration:FROM OCTOBER 10TH TO NOVEMBER 25TH,2024
+Mentor:Neela Santhosh
+
